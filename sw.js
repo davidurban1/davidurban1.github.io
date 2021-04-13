@@ -17,7 +17,7 @@
  * cambios en tu sitio, para
  * depués actualizar este archivo.
  */
-const CACHE = " iotadangomez-2.03";
+const CACHE = " davidurban5738";
 
 /** Archivos requeridos para que
  * la aplicación funcione fuera de
