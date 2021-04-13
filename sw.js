@@ -17,7 +17,7 @@
  * cambios en tu sitio, para
  * depués actualizar este archivo.
  */
-var CACHE = 'davidurban1-2.03';
+
 const CACHE ="davidurban1-2.03";
 
 /** Archivos requeridos para que
