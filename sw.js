@@ -18,7 +18,7 @@
  * depués actualizar este archivo.
  */
 
-const CACHE ="davidurban1-2";
+const CACHE ="davidurban1-2kjbhjkbjjikkljñkjjil";
 
 /** Archivos requeridos para que
  * la aplicación funcione fuera de
