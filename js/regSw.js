@@ -14,8 +14,8 @@ async function regSw() {
       await navigator.
         serviceWorker.
         register("/sw.js");
-    console.log("sw registrado correctamente.");
-    console.log(registro:);
+    console.log("sw registrado.");
+    console.log(registro);
   } catch (e) {
     console.error(e);
     alert(e.message);
