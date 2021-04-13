@@ -1,5 +1,5 @@
 // @ts-ignore
-<script>
+
   // Your web app's Firebase configuration
   var firebaseConfig = {
     apiKey: "AIzaSyCRlRGrCLsLr6Qs8GuuwI0DGZ94PlmBhrQ",
@@ -10,5 +10,4 @@
     appId: "1:286467288987:web:595ad1fa19d446463bbb3e"
   };
   // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-</script>
+  
