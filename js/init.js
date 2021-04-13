@@ -8,5 +8,5 @@ firebase.initializeApp({
     storageBucket: "davidurban5738.appspot.com",
     messagingSenderId: "286467288987",
     appId: "1:286467288987:web:595ad1fa19d446463bbb3e"
-  };
+ 
 });
