@@ -2,12 +2,11 @@
 
 // @ts-ignore
 firebase.initializeApp({
-  apiKey: "AIzaSyCRlRGrCLsLr6Qs8GuuwI0DGZ94PlmBhrQ",
-    authDomain: "davidurban5738.firebaseapp.com",
-    projectId: "davidurban5738",
-    storageBucket: "davidurban5738.appspot.com",
-    messagingSenderId: "286467288987",
-    appId: "1:286467288987:web:595ad1fa19d446463bbb3e"
-
+ apiKey: "AIzaSyDEUNkZOoVIpp0UsGF0Cmvy_SFWQetvB4M",
+    authDomain: "luisurban1.firebaseapp.com",
+    projectId: "luisurban1",
+    storageBucket: "luisurban1.appspot.com",
+    messagingSenderId: "598357599869",
+    appId: "1:598357599869:web:89ff8c85ba7bff6a01b314"
  
 });
